@@ -1,0 +1,48 @@
+                                                 Documentation
+
+First Page --> This page will tell about the basic info about the developer of the project. And to proceed to second page at bottom there is a lable to which user have to move his mouse cursor over that label so that second page will appear.
+
+Second Page --> This is the project which basically record the basic information of employees.
+
+On left side
+
+
+First Entry --> It requires the employee id which is unique and its type of varchar of length 10.
+
+Second Entry --> It requires first name and does not contain any special symbol in name. Data type is char of length 15.
+
+Third Entry --> It requires last name and does not contain any special symbol in name. Data type is char of length 15.
+
+Fourth Entry --> It requires mobile no. and length must be of 10 and it should start with 7 or 8 or 9 for to be valid.
+
+Fifth Entry --> This entry department of an employee in which he/she is working. Its type is varchar of lenght 15.
+
+Sixth Entry --> This entry required annual salary, its type is number and its length is 13 and upto 2 decimal places. And Salary is in Rupees.
+
+Seventh Entry --> It is spinbox which contain default values, user just have to click on upper or down arrows for selecting his date of birth.
+
+Eight Entry --> It is spinbox which contain default values, user just have to click on upper or down arrows for selecting his date of joining.
+
+
+
+Now on the right side, there are three buttons which user have to select what he wants to do.
+
+First Button --> It is an insert button when user has filled all the required fields correctly and user the wants to save his information then user have to click on insert button. If any entry is leftover or it is not valid then program will display an error.
+
+Second Button --> It is a reset button, if user wants to clear all fields then he/she can click on reset button to clear all the fields.
+
+Third Button --> It is a showall button, if user wants to see the information all employees he/she can click on it. And then third page will open.
+
+On Bottom
+
+In the middle there is a entry if u want to search for a particular employee then type the employee id and click on right side button name "show" if that employee id exists in the database then it will display the information of that employee in a message box.
+
+Third Page --> This page contains all employee basic information which have been entered by the user.
+just below the table there is a button to go back to second page. When user click on that button it will terminate the current window and user will reach to second screen.
+
+Student details 
+
+Name  --> Sayuj Sehgal
+Enrollment No. --> 161B205	
+Batch -->B7(BZ)
+Submitted To-->DR. Mahesh Kumar
